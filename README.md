@@ -1,4 +1,4 @@
 # Device-user
-User 
-https://github.com/sessions/verified-device
+1.User=https://github.com/sessions/verified-device
+
 
